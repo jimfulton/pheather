@@ -1,5 +1,5 @@
 name = 'pheather'
-version = '0'
+version = '0.1.0'
 
 install_requires = ['numpy', 'pandas', 'ZODB', 'newt.db', 'feather-format']
 extras_require = dict(test=['manuel', 'mock', 'zope.testing'])
