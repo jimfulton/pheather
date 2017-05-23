@@ -1,7 +1,7 @@
 Changes
 =======
 
-0.1.1 (unreleased)
+0.1.1 (2017-05-23)
 ------------------
 
 - Added missing setup dependency (for feather-format :( )

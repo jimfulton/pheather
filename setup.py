@@ -1,5 +1,5 @@
 name = 'pheather'
-version = '0.1.1.dev0'
+version = '0.1.1'
 
 install_requires = ['numpy', 'pandas', 'ZODB', 'newt.db', 'feather-format']
 setup_requires = ['cython']
