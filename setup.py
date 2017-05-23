@@ -2,6 +2,7 @@ name = 'pheather'
 version = '0.1.1.dev0'
 
 install_requires = ['numpy', 'pandas', 'ZODB', 'newt.db', 'feather-format']
+setup_requires = ['cython']
 extras_require = dict(test=['manuel', 'mock', 'zope.testing'])
 
 entry_points = """
