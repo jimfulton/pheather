@@ -24,6 +24,7 @@ setup(
     long_description = long_description,
     description = long_description.strip().split('\n')[1],
     packages = [name],
+    url='https://github.com/jimfulton/pheather',
     package_dir = {'': 'src'},
     install_requires = install_requires,
     zip_safe = False,
