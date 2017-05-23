@@ -4,6 +4,11 @@ Store Pandas data frame as ZODB blobs
 
 Currently experimental.
 
+Install::
+
+  pip install cython numpy
+  pip install pheather
+
 Usage, assuming you have a ZODB connection already::
 
 
